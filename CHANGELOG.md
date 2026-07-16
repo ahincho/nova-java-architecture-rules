@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/ahincho/nova-java-architecture-rules/compare/v1.1.0...v1.1.1) (2026-07-16)
+
+
+### Bug Fixes
+
+* **build:** track gradle-wrapper.jar (era ignorado por '*.jar' en .gitignore) ([487839c](https://github.com/ahincho/nova-java-architecture-rules/commit/487839caf1254434fc70fafdbb5186fbed99e0be))
+
 ## [1.1.0](https://github.com/ahincho/nova-java-architecture-rules/compare/v1.0.0...v1.1.0) (2026-07-16)
 
 
