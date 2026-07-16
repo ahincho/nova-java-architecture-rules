@@ -1,8 +1,10 @@
 helper-resources/
 target/
+build/
 *.class
 *.jar
 .idea/
 *.iml
 .vscode/
 .DS_Store
+.gradle/
