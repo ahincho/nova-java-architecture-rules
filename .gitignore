@@ -1,10 +1,15 @@
 helper-resources/
 target/
 build/
-*.class
-*.jar
-.idea/
-*.iml
-.vscode/
-.DS_Store
 .gradle/
+node_modules/
+
+# IDE
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+
+# OS
+.DS_Store
