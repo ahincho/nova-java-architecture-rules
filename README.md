@@ -64,3 +64,7 @@ with the exact offending class.
 ## License
 
 Apache 2.0 — see [LICENSE](LICENSE).
+## Maintainer
+
+Run on each push to main (and every PR). The pipeline is reused from
+hincho/nova-devops via reusable workflows.
